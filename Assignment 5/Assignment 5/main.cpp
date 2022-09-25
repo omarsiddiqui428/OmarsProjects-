@@ -3,7 +3,7 @@
 //  Assignment 5
 //
 //  Created by Omar Siddiqui on 9/24/22.
-//
+// Project: Get user input, an integer, from "Input" file, and print a traingle, square, and diamond using that integer to the "Output" file 
 
 #include <iostream>
 #include <stdio.h>
